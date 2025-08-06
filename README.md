@@ -1,7 +1,7 @@
 # act-on-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Act-On
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Act-On (beta)](https://www.cdata.com/download/download.aspx?sku=OVZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Act-On (beta)](https://www.cdata.com/download/download.aspx?sku=OVZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Act-On supported by the [CData JDBC Driver for Act-On](https://www.cdata.com/drivers/acton/jdbc).
 
